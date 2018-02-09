@@ -29,10 +29,7 @@
   ],
   "dependencies": {
     "jquery": ">=1.5",
-    "waypoints": ">=2.0"
-  },
-  "require": {
-   "bower-asset/waypoints": "*",
+    "bower-asset/waypoints": ">=2.0"
   },
   "repository": {
     "type": "git",
