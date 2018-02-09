@@ -31,6 +31,9 @@
     "jquery": ">=1.5",
     "waypoints": ">=2.0"
   },
+  "require": {
+   "bower-asset/waypoints": "*",
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/marianabm/Counter-Up"
