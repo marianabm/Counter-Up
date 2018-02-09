@@ -1,5 +1,5 @@
  {
-  "name": "marianabm/Counter-Up",
+  "name": "marianabm/counter-up",
   "version": "1.0.0",
   "title": "Counter-Up",
   "description": "A lightweight jQuery plugin that counts up to a targeted number when the number becomes visible.",
@@ -29,7 +29,10 @@
   ],
   "dependencies": {
     "jquery": ">=1.5",
-    "bower-asset/waypoints": ">=2.0"
+    "waypoints": ">=2.0"
+  },
+  "require": {
+    "bower-asset/waypoints": "*"
   },
   "repository": {
     "type": "git",
